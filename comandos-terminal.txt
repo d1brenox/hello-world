@@ -1,0 +1,21 @@
+Hello world
+
+comandos Terminal
+ls = ver oque tem dentro da pasta.
+clear = apagar a janela.
+cd [nome da pasta] = entrar dentro da pasta. 
+cd .. = volta á pasta anterior.
+git commit -m "[mensagem de commit] = cria um novo commit com a mensagem.
+git log --oneline = ver o histórico do repositorio.
+git add . = adiciona todos os arquivos do repositorio.
+touch [arquivo] = cria um novo arquivo.
+nano [arquivo] = executa o arquivo.
+git add [nome do arquivo] = adiciona um arquivo especifico.
+git init = cria um novo repositorio git.
+git version = ver a versão do git.
+mkdir [nome da pasta nova] = cria uma nova pasta
+mv [nome do arquivo] [novo nome do arquivo] = edita o nome do arquivo.
+ls -a = exibir arquivos ocultos.
+cd ../[nome da pasta] = sai da pasta atual e vai direto á outra pasta.
+git restore --[nome do arquivo] = o arquivo volta ao estagio anterior. 
+git add . && git commit -m "[mensagem para o commit]" = adiciona uma atualização de todos os documentos editados e cria o commit com uma mensagem.
